@@ -1,0 +1,231 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "cIbvJpe7FFuFVIcunw_NU0p_8ug",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 46,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "AtjiL9tfvEbZc3javHyGv4d14Ts",
+      "id": "PLs1Rf1TEhIU7KVtGpYL2WF4T_NcECLsOq",
+      "snippet": {
+        "publishedAt": "2022-02-02T07:23:44Z",
+        "channelId": "UCimwXNI1_dUHs1HYJTMPgLw",
+        "title": "C R E E D",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rGUKFhI6C4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rGUKFhI6C4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rGUKFhI6C4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Spectrum Church",
+        "localized": {
+          "title": "C R E E D",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "NOqIowIO6EulUqpwPn6evcO4-GQ",
+      "id": "PLs1Rf1TEhIU4qjIxRS65IiX9QA2hQ83RU",
+      "snippet": {
+        "publishedAt": "2021-12-13T22:19:36Z",
+        "channelId": "UCimwXNI1_dUHs1HYJTMPgLw",
+        "title": "Advent 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/apxw3NSjKbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/apxw3NSjKbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/apxw3NSjKbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/apxw3NSjKbU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/apxw3NSjKbU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Spectrum Church",
+        "localized": {
+          "title": "Advent 2021",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 2
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ue7AZ6cX_z5h3WIsK0avTd3XY9U",
+      "id": "PLs1Rf1TEhIU6Bv_G1LoI05su3HcWa8Tqr",
+      "snippet": {
+        "publishedAt": "2020-12-24T07:59:35Z",
+        "channelId": "UCimwXNI1_dUHs1HYJTMPgLw",
+        "title": "Year End Services 2020",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wx2-wbpdoaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wx2-wbpdoaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wx2-wbpdoaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wx2-wbpdoaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wx2-wbpdoaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Spectrum Church",
+        "localized": {
+          "title": "Year End Services 2020",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 2
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "fUIYK5fz7VthGcuxVBrQ1iLPSz4",
+      "id": "PLs1Rf1TEhIU5wEhi3ZWQB2VV-4e1CcyTH",
+      "snippet": {
+        "publishedAt": "2020-11-30T19:13:01Z",
+        "channelId": "UCimwXNI1_dUHs1HYJTMPgLw",
+        "title": "Expect the Unexpected - Advent Promises in Isaiah",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yUxftTmgUAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yUxftTmgUAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yUxftTmgUAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yUxftTmgUAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yUxftTmgUAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Spectrum Church",
+        "localized": {
+          "title": "Expect the Unexpected - Advent Promises in Isaiah",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "oiy0o3NhIXo31UbBtNQehuqsbAk",
+      "id": "PLs1Rf1TEhIU4zCxZXmxzfGXWMcXLk1Npt",
+      "snippet": {
+        "publishedAt": "2020-11-10T19:18:56Z",
+        "channelId": "UCimwXNI1_dUHs1HYJTMPgLw",
+        "title": "Sunday Service Livestream",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LDALpjCeYx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LDALpjCeYx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LDALpjCeYx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LDALpjCeYx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LDALpjCeYx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Spectrum Church",
+        "localized": {
+          "title": "Sunday Service Livestream",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 56
+      }
+    }
+  ]
+}

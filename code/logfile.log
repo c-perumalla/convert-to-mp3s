@@ -1,0 +1,499 @@
+2022-02-06 23:46:02,309 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2022-02-06 23:46:02,309 converting series: Living A Life That Matters
+2022-02-06 23:46:02,309 processing video number 1 of 5 videos
+2022-02-06 23:46:02,309 pulling video Living a life that matters - Final Part...
+2022-02-06 23:46:02,310 Creating youtube object
+2022-02-06 23:46:14,478 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Final Part.mp4
+2022-02-06 23:46:14,478 converting to audio...
+2022-02-06 23:46:14,478 -------------converting to mp3-------------
+2022-02-06 23:46:45,381 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Final Part.mp4 to mp3
+2022-02-06 23:46:45,381 removing saved video
+2022-02-06 23:46:45,381 removing video: 
+2022-02-06 23:46:45,390 processing video number 2 of 5 videos
+2022-02-06 23:46:45,390 pulling video Living a life that matters - Part IV...
+2022-02-06 23:46:45,390 Creating youtube object
+2022-02-06 23:46:55,250 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Part IV.mp4
+2022-02-06 23:46:55,251 converting to audio...
+2022-02-06 23:46:55,251 -------------converting to mp3-------------
+2022-02-06 23:47:27,152 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Part IV.mp4 to mp3
+2022-02-06 23:47:27,153 removing saved video
+2022-02-06 23:47:27,153 removing video: 
+2022-02-06 23:47:27,157 processing video number 3 of 5 videos
+2022-02-06 23:47:27,157 pulling video Living a life that matters - Part III...
+2022-02-06 23:47:27,158 Creating youtube object
+2022-02-06 23:47:40,778 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Part III.mp4
+2022-02-06 23:47:40,778 converting to audio...
+2022-02-06 23:47:40,778 -------------converting to mp3-------------
+2022-02-06 23:48:25,100 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Part III.mp4 to mp3
+2022-02-06 23:48:25,100 removing saved video
+2022-02-06 23:48:25,100 removing video: 
+2022-02-06 23:48:25,111 processing video number 4 of 5 videos
+2022-02-06 23:48:25,111 pulling video Living a Life that Matters - Part II...
+2022-02-06 23:48:25,111 Creating youtube object
+2022-02-06 23:48:41,076 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Living a Life that Matters - Part II.mp4
+2022-02-06 23:48:41,077 converting to audio...
+2022-02-06 23:48:41,077 -------------converting to mp3-------------
+2022-02-06 23:49:09,757 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Living a Life that Matters - Part II.mp4 to mp3
+2022-02-06 23:49:09,757 removing saved video
+2022-02-06 23:49:09,757 removing video: 
+2022-02-06 23:49:09,763 processing video number 5 of 5 videos
+2022-02-06 23:49:09,763 pulling video Living a life that matters - Part I...
+2022-02-06 23:49:09,764 Creating youtube object
+2022-02-06 23:49:21,090 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Part I.mp4
+2022-02-06 23:49:21,091 converting to audio...
+2022-02-06 23:49:21,091 -------------converting to mp3-------------
+2022-02-06 23:49:52,298 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Living a life that matters - Part I.mp4 to mp3
+2022-02-06 23:49:52,298 removing saved video
+2022-02-06 23:49:52,298 removing video: 
+2022-02-06 23:49:52,306 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living A Life That Matters/Living a life that matters - Final Part_Jan_31_2022.mp3
+2022-02-06 23:49:52,306 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living A Life That Matters/Living a life that matters - Part IV_Jan_31_2022.mp3
+2022-02-06 23:49:52,306 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living A Life That Matters/Living a life that matters - Part III_Jan_31_2022.mp3
+2022-02-06 23:49:52,306 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living A Life That Matters/Living a Life that Matters - Part II_Jan_31_2022.mp3
+2022-02-06 23:49:52,306 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living A Life That Matters/Living a life that matters - Part I_Jan_31_2022.mp3
+2022-02-06 23:49:52,306 converting series: Finding the Real Jesus
+2022-02-06 23:49:52,306 processing video number 1 of 5 videos
+2022-02-06 23:49:52,306 pulling video Private video...
+2022-02-06 23:49:52,307 Creating youtube object
+2022-02-06 23:49:52,598 FeY7aDUxwjQ is a private video
+2022-02-06 23:49:52,598 video not saved abondoning video:Private video
+2022-02-06 23:49:52,598 processing video number 2 of 5 videos
+2022-02-06 23:49:52,598 pulling video Following Jesus...
+2022-02-06 23:49:52,598 Creating youtube object
+2022-02-06 23:50:09,659 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Following Jesus.mp4
+2022-02-06 23:50:09,659 converting to audio...
+2022-02-06 23:50:09,659 -------------converting to mp3-------------
+2022-02-06 23:50:48,179 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Following Jesus.mp4 to mp3
+2022-02-06 23:50:48,179 removing saved video
+2022-02-06 23:50:48,179 removing video: 
+2022-02-06 23:50:48,189 processing video number 3 of 5 videos
+2022-02-06 23:50:48,189 pulling video Triumph over Temptations...
+2022-02-06 23:50:48,189 Creating youtube object
+2022-02-06 23:51:04,322 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Triumph over Temptations.mp4
+2022-02-06 23:51:04,322 converting to audio...
+2022-02-06 23:51:04,322 -------------converting to mp3-------------
+2022-02-06 23:51:53,433 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Triumph over Temptations.mp4 to mp3
+2022-02-06 23:51:53,433 removing saved video
+2022-02-06 23:51:53,433 removing video: 
+2022-02-06 23:51:53,445 processing video number 4 of 5 videos
+2022-02-06 23:51:53,445 pulling video Art of Living -Living like Jesus...
+2022-02-06 23:51:53,445 Creating youtube object
+2022-02-06 23:52:06,366 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Art of Living -Living like Jesus.mp4
+2022-02-06 23:52:06,366 converting to audio...
+2022-02-06 23:52:06,366 -------------converting to mp3-------------
+2022-02-06 23:52:51,202 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Art of Living -Living like Jesus.mp4 to mp3
+2022-02-06 23:52:51,202 removing saved video
+2022-02-06 23:52:51,202 removing video: 
+2022-02-06 23:52:51,213 processing video number 5 of 5 videos
+2022-02-06 23:52:51,213 pulling video Money Matters...
+2022-02-06 23:52:51,213 Creating youtube object
+2022-02-06 23:53:03,142 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Money Matters.mp4
+2022-02-06 23:53:03,143 converting to audio...
+2022-02-06 23:53:03,143 -------------converting to mp3-------------
+2022-02-06 23:53:26,135 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Money Matters.mp4 to mp3
+2022-02-06 23:53:26,135 removing saved video
+2022-02-06 23:53:26,135 removing video: 
+2022-02-06 23:53:26,141 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Finding the Real Jesus/Following Jesus_Jan_31_2022.mp3
+2022-02-06 23:53:26,141 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Finding the Real Jesus/Triumph over Temptations_Jan_31_2022.mp3
+2022-02-06 23:53:26,141 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Finding the Real Jesus/Art of Living -Living like Jesus_Jan_31_2022.mp3
+2022-02-06 23:53:26,141 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Finding the Real Jesus/Money Matters_Jan_31_2022.mp3
+2022-02-06 23:53:26,142 converting series: Retreat 2017
+2022-02-06 23:53:26,142 processing video number 1 of 5 videos
+2022-02-06 23:53:26,142 pulling video What is Union With Christ...
+2022-02-06 23:53:26,142 Creating youtube object
+2022-02-06 23:53:48,587 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/What is Union With Christ.mp4
+2022-02-06 23:53:48,587 converting to audio...
+2022-02-06 23:53:48,587 -------------converting to mp3-------------
+2022-02-06 23:54:52,529 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/What is Union With Christ.mp4 to mp3
+2022-02-06 23:54:52,529 removing saved video
+2022-02-06 23:54:52,529 removing video: 
+2022-02-06 23:54:52,540 processing video number 2 of 5 videos
+2022-02-06 23:54:52,540 pulling video Image of God & True Humanity...
+2022-02-06 23:54:52,540 Creating youtube object
+2022-02-06 23:55:19,703 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Image of God & True Humanity.mp4
+2022-02-06 23:55:19,703 converting to audio...
+2022-02-06 23:55:19,703 -------------converting to mp3-------------
+2022-02-06 23:56:06,250 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Image of God & True Humanity.mp4 to mp3
+2022-02-06 23:56:06,250 removing saved video
+2022-02-06 23:56:06,250 removing video: 
+2022-02-06 23:56:06,264 processing video number 3 of 5 videos
+2022-02-06 23:56:06,264 pulling video Weakness Over Boasting...
+2022-02-06 23:56:06,265 Creating youtube object
+2022-02-06 23:56:24,573 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Weakness Over Boasting.mp4
+2022-02-06 23:56:24,573 converting to audio...
+2022-02-06 23:56:24,573 -------------converting to mp3-------------
+2022-02-06 23:57:07,529 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Weakness Over Boasting.mp4 to mp3
+2022-02-06 23:57:07,529 removing saved video
+2022-02-06 23:57:07,529 removing video: 
+2022-02-06 23:57:07,538 processing video number 4 of 5 videos
+2022-02-06 23:57:07,538 pulling video Vulnerability and Transparency...
+2022-02-06 23:57:07,538 Creating youtube object
+2022-02-06 23:57:21,519 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Vulnerability and Transparency.mp4
+2022-02-06 23:57:21,519 converting to audio...
+2022-02-06 23:57:21,519 -------------converting to mp3-------------
+2022-02-06 23:57:53,114 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Vulnerability and Transparency.mp4 to mp3
+2022-02-06 23:57:53,114 removing saved video
+2022-02-06 23:57:53,115 removing video: 
+2022-02-06 23:57:53,122 processing video number 5 of 5 videos
+2022-02-06 23:57:53,122 pulling video Gaining by Losing...
+2022-02-06 23:57:53,122 Creating youtube object
+2022-02-06 23:58:18,967 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Gaining by Losing.mp4
+2022-02-06 23:58:18,967 converting to audio...
+2022-02-06 23:58:18,967 -------------converting to mp3-------------
+2022-02-06 23:59:10,139 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Gaining by Losing.mp4 to mp3
+2022-02-06 23:59:10,139 removing saved video
+2022-02-06 23:59:10,140 removing video: 
+2022-02-06 23:59:10,153 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2017/What is Union With Christ_Jan_31_2022.mp3
+2022-02-06 23:59:10,153 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2017/Image of God & True Humanity_Jan_31_2022.mp3
+2022-02-06 23:59:10,153 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2017/Weakness Over Boasting_Jan_31_2022.mp3
+2022-02-06 23:59:10,153 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2017/Vulnerability and Transparency_Jan_31_2022.mp3
+2022-02-06 23:59:10,153 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2017/Gaining by Losing_Jan_31_2022.mp3
+2022-02-06 23:59:10,153 converting series: Living with a Mission
+2022-02-06 23:59:10,153 processing video number 1 of 4 videos
+2022-02-06 23:59:10,153 pulling video Private video...
+2022-02-06 23:59:10,153 Creating youtube object
+2022-02-06 23:59:10,395 ArxG9M-ywGg is a private video
+2022-02-06 23:59:10,395 video not saved abondoning video:Private video
+2022-02-06 23:59:10,395 processing video number 2 of 4 videos
+2022-02-06 23:59:10,395 pulling video Know Your Mission -  Part I...
+2022-02-06 23:59:10,395 Creating youtube object
+2022-02-06 23:59:19,323 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Know Your Mission -  Part I.mp4
+2022-02-06 23:59:19,323 converting to audio...
+2022-02-06 23:59:19,324 -------------converting to mp3-------------
+2022-02-06 23:59:28,303 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Know Your Mission -  Part I.mp4 to mp3
+2022-02-06 23:59:28,303 removing saved video
+2022-02-06 23:59:28,303 removing video: 
+2022-02-06 23:59:28,307 processing video number 3 of 4 videos
+2022-02-06 23:59:28,307 pulling video Living with a Mission - 1. Passionate Living...
+2022-02-06 23:59:28,307 Creating youtube object
+2022-02-06 23:59:48,490 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Living with a Mission - 1. Passionate Living.mp4
+2022-02-06 23:59:48,491 converting to audio...
+2022-02-06 23:59:48,491 -------------converting to mp3-------------
+2022-02-07 00:00:13,285 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Living with a Mission - 1. Passionate Living.mp4 to mp3
+2022-02-07 00:00:13,285 removing saved video
+2022-02-07 00:00:13,285 removing video: 
+2022-02-07 00:00:13,294 processing video number 4 of 4 videos
+2022-02-07 00:00:13,294 pulling video Know Your Mission Part II...
+2022-02-07 00:00:13,294 Creating youtube object
+2022-02-07 00:00:20,319 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Know Your Mission Part II.mp4
+2022-02-07 00:00:20,320 converting to audio...
+2022-02-07 00:00:20,320 -------------converting to mp3-------------
+2022-02-07 00:00:28,853 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Know Your Mission Part II.mp4 to mp3
+2022-02-07 00:00:28,853 removing saved video
+2022-02-07 00:00:28,853 removing video: 
+2022-02-07 00:00:28,857 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living with a Mission/Know Your Mission -  Part I_Jan_31_2022.mp3
+2022-02-07 00:00:28,857 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living with a Mission/Living with a Mission - 1. Passionate Living_Jan_31_2022.mp3
+2022-02-07 00:00:28,857 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Living with a Mission/Know Your Mission Part II_Jan_31_2022.mp3
+2022-02-07 00:00:28,857 converting series: Faith amidst Fear
+2022-02-07 00:00:28,857 processing video number 1 of 4 videos
+2022-02-07 00:00:28,857 pulling video Faith amidst Fear (Part 1)...
+2022-02-07 00:00:28,857 Creating youtube object
+2022-02-07 00:00:37,419 HTTP Error 500: Internal Server Error
+2022-02-07 00:00:37,420 video not saved abondoning video:Faith amidst Fear (Part 1)
+2022-02-07 00:00:37,420 processing video number 2 of 4 videos
+2022-02-07 00:00:37,420 pulling video Faith amidst Fear Part 2...
+2022-02-07 00:00:37,420 Creating youtube object
+2022-02-07 00:01:01,367 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Faith amidst Fear Part 2.mp4
+2022-02-07 00:01:01,367 converting to audio...
+2022-02-07 00:01:01,367 -------------converting to mp3-------------
+2022-02-07 00:01:38,831 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Faith amidst Fear Part 2.mp4 to mp3
+2022-02-07 00:01:38,832 removing saved video
+2022-02-07 00:01:38,832 removing video: 
+2022-02-07 00:01:38,842 processing video number 3 of 4 videos
+2022-02-07 00:01:38,842 pulling video Forsaken...
+2022-02-07 00:01:38,843 Creating youtube object
+2022-02-07 00:02:07,036 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Forsaken.mp4
+2022-02-07 00:02:07,037 converting to audio...
+2022-02-07 00:02:07,037 -------------converting to mp3-------------
+2022-02-07 00:02:43,882 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Forsaken.mp4 to mp3
+2022-02-07 00:02:43,882 removing saved video
+2022-02-07 00:02:43,882 removing video: 
+2022-02-07 00:02:43,894 processing video number 4 of 4 videos
+2022-02-07 00:02:43,894 pulling video Empty Church, Empty Grave, Risen King...
+2022-02-07 00:02:43,894 Creating youtube object
+2022-02-07 00:03:13,039 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Empty Church, Empty Grave, Risen King.mp4
+2022-02-07 00:03:13,039 converting to audio...
+2022-02-07 00:03:13,039 -------------converting to mp3-------------
+2022-02-07 00:03:46,108 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Empty Church, Empty Grave, Risen King.mp4 to mp3
+2022-02-07 00:03:46,108 removing saved video
+2022-02-07 00:03:46,108 removing video: 
+2022-02-07 00:03:46,120 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Faith amidst Fear/Faith amidst Fear Part 2_Jan_31_2022.mp3
+2022-02-07 00:03:46,120 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Faith amidst Fear/Forsaken_Jan_31_2022.mp3
+2022-02-07 00:03:46,120 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Faith amidst Fear/Empty Church, Empty Grave, Risen King_Jan_31_2022.mp3
+2022-02-07 00:03:46,120 converting series: Retreat 2019
+2022-02-07 00:03:46,120 processing video number 1 of 4 videos
+2022-02-07 00:03:46,120 pulling video Session - 1 A Pursuit, A Plan, & A Purpose...
+2022-02-07 00:03:46,120 Creating youtube object
+2022-02-07 00:03:59,360 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Session - 1 A Pursuit, A Plan, & A Purpose.mp4
+2022-02-07 00:03:59,360 converting to audio...
+2022-02-07 00:03:59,360 -------------converting to mp3-------------
+2022-02-07 00:04:16,648 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Session - 1 A Pursuit, A Plan, & A Purpose.mp4 to mp3
+2022-02-07 00:04:16,648 removing saved video
+2022-02-07 00:04:16,648 removing video: 
+2022-02-07 00:04:16,655 processing video number 2 of 4 videos
+2022-02-07 00:04:16,655 pulling video Session - 2 The Walk of a Godly Person -1...
+2022-02-07 00:04:16,656 Creating youtube object
+2022-02-07 00:04:24,150 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Session - 2 The Walk of a Godly Person -1.mp4
+2022-02-07 00:04:24,150 converting to audio...
+2022-02-07 00:04:24,150 -------------converting to mp3-------------
+2022-02-07 00:04:33,838 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Session - 2 The Walk of a Godly Person -1.mp4 to mp3
+2022-02-07 00:04:33,838 removing saved video
+2022-02-07 00:04:33,838 removing video: 
+2022-02-07 00:04:33,842 processing video number 3 of 4 videos
+2022-02-07 00:04:33,842 pulling video Session - 4 God's Cleansing Purity...
+2022-02-07 00:04:33,843 Creating youtube object
+2022-02-07 00:04:45,886 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Session - 4 God's Cleansing Purity.mp4
+2022-02-07 00:04:45,886 converting to audio...
+2022-02-07 00:04:45,887 -------------converting to mp3-------------
+2022-02-07 00:04:58,138 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Session - 4 God's Cleansing Purity.mp4 to mp3
+2022-02-07 00:04:58,138 removing saved video
+2022-02-07 00:04:58,138 removing video: 
+2022-02-07 00:04:58,142 processing video number 4 of 4 videos
+2022-02-07 00:04:58,142 pulling video Session - 5 Be Defenders...
+2022-02-07 00:04:58,143 Creating youtube object
+2022-02-07 00:05:09,895 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Session - 5 Be Defenders.mp4
+2022-02-07 00:05:09,896 converting to audio...
+2022-02-07 00:05:09,896 -------------converting to mp3-------------
+2022-02-07 00:05:24,451 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Session - 5 Be Defenders.mp4 to mp3
+2022-02-07 00:05:24,451 removing saved video
+2022-02-07 00:05:24,451 removing video: 
+2022-02-07 00:05:24,457 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2019/Session - 1 A Pursuit, A Plan, & A Purpose_Jan_31_2022.mp3
+2022-02-07 00:05:24,457 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2019/Session - 2 The Walk of a Godly Person -1_Jan_31_2022.mp3
+2022-02-07 00:05:24,457 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2019/Session - 4 God's Cleansing Purity_Jan_31_2022.mp3
+2022-02-07 00:05:24,457 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Retreat 2019/Session - 5 Be Defenders_Jan_31_2022.mp3
+2022-02-07 00:05:24,457 converting series: Christ Centered Marriage
+2022-02-07 00:05:24,457 processing video number 1 of 4 videos
+2022-02-07 00:05:24,457 pulling video Session 4 The Wedding Song- Psalm 128...
+2022-02-07 00:05:24,457 Creating youtube object
+2022-02-07 00:05:51,052 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Session 4 The Wedding Song- Psalm 128.mp4
+2022-02-07 00:05:51,052 converting to audio...
+2022-02-07 00:05:51,052 -------------converting to mp3-------------
+2022-02-07 00:06:32,574 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Session 4 The Wedding Song- Psalm 128.mp4 to mp3
+2022-02-07 00:06:32,575 removing saved video
+2022-02-07 00:06:32,575 removing video: 
+2022-02-07 00:06:32,587 processing video number 2 of 4 videos
+2022-02-07 00:06:32,587 pulling video Session 2 -Normal Christian Marriage / Role of Wives- Ephesians 5:18 33...
+2022-02-07 00:06:32,587 Creating youtube object
+2022-02-07 00:06:33,589 [Errno 2] No such file or directory: '/home/ubuntu/convert_to_mp3s/data/videos/Session 2 -Normal Christian Marriage / Role of Wives- Ephesians 5:18 33.mp4'
+2022-02-07 00:06:33,589 video not saved abondoning video:Session 2 -Normal Christian Marriage / Role of Wives- Ephesians 5:18 33
+2022-02-07 00:06:33,589 processing video number 3 of 4 videos
+2022-02-07 00:06:33,589 pulling video Session 1 -What is Godly Marriage...
+2022-02-07 00:06:33,589 Creating youtube object
+2022-02-07 00:07:07,950 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Session 1 -What is Godly Marriage.mp4
+2022-02-07 00:07:07,950 converting to audio...
+2022-02-07 00:07:07,950 -------------converting to mp3-------------
+2022-02-07 00:07:51,452 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Session 1 -What is Godly Marriage.mp4 to mp3
+2022-02-07 00:07:51,452 removing saved video
+2022-02-07 00:07:51,452 removing video: 
+2022-02-07 00:07:51,470 processing video number 4 of 4 videos
+2022-02-07 00:07:51,470 pulling video Session 3-How are husbands to love their wives-  Ephesians 5:18 33...
+2022-02-07 00:07:51,471 Creating youtube object
+2022-02-07 00:08:09,087 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Session 3-How are husbands to love their wives-  Ephesians 5:18 33.mp4
+2022-02-07 00:08:09,087 converting to audio...
+2022-02-07 00:08:09,088 -------------converting to mp3-------------
+2022-02-07 00:08:34,808 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Session 3-How are husbands to love their wives-  Ephesians 5:18 33.mp4 to mp3
+2022-02-07 00:08:34,809 removing saved video
+2022-02-07 00:08:34,809 removing video: 
+2022-02-07 00:08:34,817 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Christ Centered Marriage/Session 4 The Wedding Song- Psalm 128_Jan_31_2022.mp3
+2022-02-07 00:08:34,817 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Christ Centered Marriage/Session 1 -What is Godly Marriage_Jan_31_2022.mp3
+2022-02-07 00:08:34,817 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Christ Centered Marriage/Session 3-How are husbands to love their wives-  Ephesians 5:18 33_Jan_31_2022.mp3
+2022-02-07 00:08:34,817 converting series: Discovering Jesus - John's Gospel
+2022-02-07 00:08:34,817 processing video number 1 of 4 videos
+2022-02-07 00:08:34,817 pulling video Private video...
+2022-02-07 00:08:34,818 Creating youtube object
+2022-02-07 00:08:35,060 FesuTBs14o8 is a private video
+2022-02-07 00:08:35,061 video not saved abondoning video:Private video
+2022-02-07 00:08:35,061 processing video number 2 of 4 videos
+2022-02-07 00:08:35,061 pulling video John 17: The Prayer of Jesus...
+2022-02-07 00:08:35,061 Creating youtube object
+2022-02-07 00:08:57,109 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/John 17: The Prayer of Jesus.mp4
+2022-02-07 00:08:57,110 converting to audio...
+2022-02-07 00:08:57,110 -------------converting to mp3-------------
+2022-02-07 00:09:27,940 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/John 17: The Prayer of Jesus.mp4 to mp3
+2022-02-07 00:09:27,940 removing saved video
+2022-02-07 00:09:27,941 removing video: 
+2022-02-07 00:09:27,951 processing video number 3 of 4 videos
+2022-02-07 00:09:27,951 pulling video John 19 - 4 Life Changing truths of the Cross...
+2022-02-07 00:09:27,951 Creating youtube object
+2022-02-07 00:09:41,732 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/John 19 - 4 Life Changing truths of the Cross.mp4
+2022-02-07 00:09:41,732 converting to audio...
+2022-02-07 00:09:41,732 -------------converting to mp3-------------
+2022-02-07 00:10:00,365 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/John 19 - 4 Life Changing truths of the Cross.mp4 to mp3
+2022-02-07 00:10:00,365 removing saved video
+2022-02-07 00:10:00,365 removing video: 
+2022-02-07 00:10:00,373 processing video number 4 of 4 videos
+2022-02-07 00:10:00,373 pulling video John 21- Loving Jesus- Live.. Believe..Follow...
+2022-02-07 00:10:00,374 Creating youtube object
+2022-02-07 00:10:13,963 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/John 21- Loving Jesus- Live.. Believe..Follow.mp4
+2022-02-07 00:10:13,963 converting to audio...
+2022-02-07 00:10:13,963 -------------converting to mp3-------------
+2022-02-07 00:10:34,090 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/John 21- Loving Jesus- Live.. Believe..Follow.mp4 to mp3
+2022-02-07 00:10:34,090 removing saved video
+2022-02-07 00:10:34,090 removing video: 
+2022-02-07 00:10:34,098 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Discovering Jesus - John's Gospel/John 17: The Prayer of Jesus_Jan_31_2022.mp3
+2022-02-07 00:10:34,098 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Discovering Jesus - John's Gospel/John 19 - 4 Life Changing truths of the Cross_Jan_31_2022.mp3
+2022-02-07 00:10:34,098 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Discovering Jesus - John's Gospel/John 21- Loving Jesus- Live.. Believe..Follow_Jan_31_2022.mp3
+2022-02-07 00:10:34,098 converting series: Me 2.0
+2022-02-07 00:10:34,098 processing video number 1 of 3 videos
+2022-02-07 00:10:34,098 pulling video Me 2.0...
+2022-02-07 00:10:34,098 Creating youtube object
+2022-02-07 00:10:58,448 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Me 2.0.mp4
+2022-02-07 00:10:58,448 converting to audio...
+2022-02-07 00:10:58,449 -------------converting to mp3-------------
+2022-02-07 00:11:21,973 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Me 2.0.mp4 to mp3
+2022-02-07 00:11:21,973 removing saved video
+2022-02-07 00:11:21,973 removing video: 
+2022-02-07 00:11:21,983 processing video number 2 of 3 videos
+2022-02-07 00:11:21,983 pulling video Me 2.0 God's Word Needs to Transform Me...
+2022-02-07 00:11:21,983 Creating youtube object
+2022-02-07 00:11:52,992 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Me 2.0 God's Word Needs to Transform Me.mp4
+2022-02-07 00:11:52,993 converting to audio...
+2022-02-07 00:11:52,993 -------------converting to mp3-------------
+2022-02-07 00:12:17,138 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Me 2.0 God's Word Needs to Transform Me.mp4 to mp3
+2022-02-07 00:12:17,139 removing saved video
+2022-02-07 00:12:17,139 removing video: 
+2022-02-07 00:12:17,149 processing video number 3 of 3 videos
+2022-02-07 00:12:17,149 pulling video Me 2 0 Who God Is and What God Can Do in My Life...
+2022-02-07 00:12:17,149 Creating youtube object
+2022-02-07 00:12:37,862 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Me 2 0 Who God Is and What God Can Do in My Life.mp4
+2022-02-07 00:12:37,862 converting to audio...
+2022-02-07 00:12:37,862 -------------converting to mp3-------------
+2022-02-07 00:12:59,063 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Me 2 0 Who God Is and What God Can Do in My Life.mp4 to mp3
+2022-02-07 00:12:59,063 removing saved video
+2022-02-07 00:12:59,063 removing video: 
+2022-02-07 00:12:59,072 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Me 2.0/Me 2.0_Jan_31_2022.mp3
+2022-02-07 00:12:59,072 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Me 2.0/Me 2.0 God's Word Needs to Transform Me_Jan_31_2022.mp3
+2022-02-07 00:12:59,072 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Me 2.0/Me 2 0 Who God Is and What God Can Do in My Life_Jan_31_2022.mp3
+2022-02-07 00:12:59,072 converting series: Expect the Unexpected - Advent Promises in Isaiah
+2022-02-07 00:12:59,072 processing video number 1 of 3 videos
+2022-02-07 00:12:59,072 pulling video The Promise of Peace Part - I | Expect the Unexpected - Advent Promises in Isaiah...
+2022-02-07 00:12:59,072 Creating youtube object
+2022-02-07 00:13:17,717 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/The Promise of Peace Part - I | Expect the Unexpected - Advent Promises in Isaiah.mp4
+2022-02-07 00:13:17,718 converting to audio...
+2022-02-07 00:13:17,718 -------------converting to mp3-------------
+2022-02-07 00:13:47,851 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/The Promise of Peace Part - I | Expect the Unexpected - Advent Promises in Isaiah.mp4 to mp3
+2022-02-07 00:13:47,851 removing saved video
+2022-02-07 00:13:47,851 removing video: 
+2022-02-07 00:13:47,860 processing video number 2 of 3 videos
+2022-02-07 00:13:47,861 pulling video The Promise of Hope...
+2022-02-07 00:13:47,861 Creating youtube object
+2022-02-07 00:14:04,584 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/The Promise of Hope.mp4
+2022-02-07 00:14:04,584 converting to audio...
+2022-02-07 00:14:04,584 -------------converting to mp3-------------
+2022-02-07 00:14:38,737 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/The Promise of Hope.mp4 to mp3
+2022-02-07 00:14:38,738 removing saved video
+2022-02-07 00:14:38,738 removing video: 
+2022-02-07 00:14:38,748 processing video number 3 of 3 videos
+2022-02-07 00:14:38,749 pulling video The Promise of a New Walk...
+2022-02-07 00:14:38,749 Creating youtube object
+2022-02-07 00:14:52,119 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/The Promise of a New Walk.mp4
+2022-02-07 00:14:52,119 converting to audio...
+2022-02-07 00:14:52,119 -------------converting to mp3-------------
+2022-02-07 00:15:27,855 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/The Promise of a New Walk.mp4 to mp3
+2022-02-07 00:15:27,855 removing saved video
+2022-02-07 00:15:27,855 removing video: 
+2022-02-07 00:15:27,865 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Expect the Unexpected - Advent Promises in Isaiah/The Promise of Peace Part - I | Expect the Unexpected - Advent Promises in Isaiah_Jan_31_2022.mp3
+2022-02-07 00:15:27,865 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Expect the Unexpected - Advent Promises in Isaiah/The Promise of Hope_Jan_31_2022.mp3
+2022-02-07 00:15:27,865 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Expect the Unexpected - Advent Promises in Isaiah/The Promise of a New Walk_Jan_31_2022.mp3
+2022-02-07 00:15:27,865 converting series: Vision
+2022-02-07 00:15:27,865 processing video number 1 of 3 videos
+2022-02-07 00:15:27,865 pulling video The Return of The King...
+2022-02-07 00:15:27,865 Creating youtube object
+2022-02-07 00:15:57,705 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/The Return of The King.mp4
+2022-02-07 00:15:57,705 converting to audio...
+2022-02-07 00:15:57,705 -------------converting to mp3-------------
+2022-02-07 00:16:36,034 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/The Return of The King.mp4 to mp3
+2022-02-07 00:16:36,034 removing saved video
+2022-02-07 00:16:36,034 removing video: 
+2022-02-07 00:16:36,044 processing video number 2 of 3 videos
+2022-02-07 00:16:36,044 pulling video Private video...
+2022-02-07 00:16:36,044 Creating youtube object
+2022-02-07 00:16:36,372 GEnr1Fuv584 is a private video
+2022-02-07 00:16:36,373 video not saved abondoning video:Private video
+2022-02-07 00:16:36,373 processing video number 3 of 3 videos
+2022-02-07 00:16:36,373 pulling video Gospel shaped Multiethnic Community...
+2022-02-07 00:16:36,373 Creating youtube object
+2022-02-07 00:16:51,613 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Gospel shaped Multiethnic Community.mp4
+2022-02-07 00:16:51,613 converting to audio...
+2022-02-07 00:16:51,613 -------------converting to mp3-------------
+2022-02-07 00:17:14,630 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Gospel shaped Multiethnic Community.mp4 to mp3
+2022-02-07 00:17:14,630 removing saved video
+2022-02-07 00:17:14,630 removing video: 
+2022-02-07 00:17:14,636 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Vision/The Return of The King_Jan_31_2022.mp3
+2022-02-07 00:17:14,636 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Vision/Gospel shaped Multiethnic Community_Jan_31_2022.mp3
+2022-02-07 00:17:14,636 converting series: Hope Rising
+2022-02-07 00:17:14,636 processing video number 1 of 2 videos
+2022-02-07 00:17:14,636 pulling video Hope Rising Part  - 1...
+2022-02-07 00:17:14,636 Creating youtube object
+2022-02-07 00:17:43,144 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Hope Rising Part  - 1.mp4
+2022-02-07 00:17:43,144 converting to audio...
+2022-02-07 00:17:43,144 -------------converting to mp3-------------
+2022-02-07 00:18:01,580 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Hope Rising Part  - 1.mp4 to mp3
+2022-02-07 00:18:01,580 removing saved video
+2022-02-07 00:18:01,580 removing video: 
+2022-02-07 00:18:01,587 processing video number 2 of 2 videos
+2022-02-07 00:18:01,587 pulling video Hope is Here...
+2022-02-07 00:18:01,587 Creating youtube object
+2022-02-07 00:18:21,619 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Hope is Here.mp4
+2022-02-07 00:18:21,619 converting to audio...
+2022-02-07 00:18:21,620 -------------converting to mp3-------------
+2022-02-07 00:18:37,069 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Hope is Here.mp4 to mp3
+2022-02-07 00:18:37,069 removing saved video
+2022-02-07 00:18:37,069 removing video: 
+2022-02-07 00:18:37,076 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Hope Rising/Hope Rising Part  - 1_Jan_31_2022.mp3
+2022-02-07 00:18:37,076 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Hope Rising/Hope is Here_Jan_31_2022.mp3
+2022-02-07 00:18:37,076 converting series: 5th Anniversary
+2022-02-07 00:18:37,076 processing video number 1 of 2 videos
+2022-02-07 00:18:37,076 pulling video Spectrum kids video...
+2022-02-07 00:18:37,076 Creating youtube object
+2022-02-07 00:18:46,696 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Spectrum kids video.mp4
+2022-02-07 00:18:46,697 converting to audio...
+2022-02-07 00:18:46,697 -------------converting to mp3-------------
+2022-02-07 00:18:52,482 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Spectrum kids video.mp4 to mp3
+2022-02-07 00:18:52,483 removing saved video
+2022-02-07 00:18:52,483 removing video: 
+2022-02-07 00:18:52,486 processing video number 2 of 2 videos
+2022-02-07 00:18:52,486 pulling video Private video...
+2022-02-07 00:18:52,486 Creating youtube object
+2022-02-07 00:18:52,775 CWzU3ZT4v6w is a private video
+2022-02-07 00:18:52,775 video not saved abondoning video:Private video
+2022-02-07 00:18:52,775 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/5th Anniversary/Spectrum kids video_Jan_31_2022.mp3
+2022-02-07 00:18:52,775 converting series: Warriors in Christ
+2022-02-07 00:18:52,775 processing video number 1 of 2 videos
+2022-02-07 00:18:52,775 pulling video Shield of faith:Eph  6:13 20...
+2022-02-07 00:18:52,775 Creating youtube object
+2022-02-07 00:19:21,520 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Shield of faith:Eph  6:13 20.mp4
+2022-02-07 00:19:21,520 converting to audio...
+2022-02-07 00:19:21,520 -------------converting to mp3-------------
+2022-02-07 00:19:47,979 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Shield of faith:Eph  6:13 20.mp4 to mp3
+2022-02-07 00:19:47,980 removing saved video
+2022-02-07 00:19:47,980 removing video: 
+2022-02-07 00:19:47,990 processing video number 2 of 2 videos
+2022-02-07 00:19:47,990 pulling video Helmet Sword prayer Eph 6:3-20...
+2022-02-07 00:19:47,990 Creating youtube object
+2022-02-07 00:20:16,777 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Helmet Sword prayer Eph 6:3-20.mp4
+2022-02-07 00:20:16,778 converting to audio...
+2022-02-07 00:20:16,778 -------------converting to mp3-------------
+2022-02-07 00:20:40,503 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Helmet Sword prayer Eph 6:3-20.mp4 to mp3
+2022-02-07 00:20:40,503 removing saved video
+2022-02-07 00:20:40,503 removing video: 
+2022-02-07 00:20:40,512 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Warriors in Christ/Shield of faith:Eph  6:13 20_Jan_31_2022.mp3
+2022-02-07 00:20:40,512 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Warriors in Christ/Helmet Sword prayer Eph 6:3-20_Jan_31_2022.mp3
+2022-02-07 00:20:40,512 converting series: Loving Others
+2022-02-07 00:20:40,512 processing video number 1 of 1 videos
+2022-02-07 00:20:40,513 pulling video Heart of Evangelism 1 Th:2:1...
+2022-02-07 00:20:40,513 Creating youtube object
+2022-02-07 00:21:01,345 successfully pulled and saved: /home/ubuntu/convert_to_mp3s/data/videos/Heart of Evangelism 1 Th:2:1.mp4
+2022-02-07 00:21:01,345 converting to audio...
+2022-02-07 00:21:01,345 -------------converting to mp3-------------
+2022-02-07 00:21:22,874 successfully converted: /home/ubuntu/convert_to_mp3s/data/videos/Heart of Evangelism 1 Th:2:1.mp4 to mp3
+2022-02-07 00:21:22,875 removing saved video
+2022-02-07 00:21:22,875 removing video: 
+2022-02-07 00:21:22,883 saved mp3: /home/ubuntu/convert_to_mp3s/data/mp3/batch3/Loving Others/Heart of Evangelism 1 Th:2:1_Jan_31_2022.mp3
+2022-02-07 00:21:22,883 converting series: Jesus Christ: The Beginnings
+2022-02-07 00:21:22,883 processing video number 1 of 1 videos
+2022-02-07 00:21:22,883 pulling video Private video...
+2022-02-07 00:21:22,883 Creating youtube object
+2022-02-07 00:21:23,185 TYTEJxhakII is a private video
+2022-02-07 00:21:23,185 video not saved abondoning video:Private video
+2022-02-07 00:21:23,185 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> conversion complete :D <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2022-02-07 00:21:23,185 total time in seconds: 2120.876224
