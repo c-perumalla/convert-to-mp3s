@@ -1,16 +1,20 @@
 from googleapiclient.discovery import build
 import json
+import os
 
-savepath = '/home/calvinperumalla/convert_to_mp3s/code/config.json'
+# Read the YouTube Data API key from the environment, e.g.
+#   export YOUTUBE_API_KEY="..."
+# Never commit the key itself.
+API_KEY = os.environ["YOUTUBE_API_KEY"]
+
+savepath = ""  # TODO: set local path — where to write config.json
 get_link = lambda x: 'https://www.youtube.com/watch?v={}'.format(x)
 
 def get_vidnames(playlist_id, playlist_name):
-    api_key = 'AIzaSyCj5q3k944XZIPyIwm38s023mK6GWM0CbQ'
     api_service_name = "youtube"
     api_version = "v3"
 
-
-    youtube = build(api_service_name, api_version, developerKey=api_key)
+    youtube = build(api_service_name, api_version, developerKey=API_KEY)
 
     try:
         request = youtube.playlistItems().list(part="snippet,contentDetails", playlistId=playlist_id, maxResults=50)
@@ -34,12 +38,10 @@ def get_vidnames(playlist_id, playlist_name):
 
 
 def get_playlists():
-    api_key = 'AIzaSyCj5q3k944XZIPyIwm38s023mK6GWM0CbQ'
     api_service_name = "youtube"
     api_version = "v3"
 
-
-    youtube = build(api_service_name, api_version, developerKey=api_key)
+    youtube = build(api_service_name, api_version, developerKey=API_KEY)
 
 
     try:

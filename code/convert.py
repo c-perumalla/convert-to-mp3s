@@ -7,7 +7,6 @@ log
 '''
 from datetime import date, datetime, timedelta
 import os
-from re import L
 from pytube import YouTube
 import subprocess
 
@@ -26,13 +25,13 @@ import logging
 logging.basicConfig(filename='logfile.log', filemode='w', level=logging.INFO, format='%(asctime)s %(message)s')
 
 # to ease batch processing
-basepath = '/home/ubuntu/convert_to_mp3s/data/mp3'
+basepath = ""  # TODO: set local path — root folder for mp3 output
 batchpath = os.path.join(basepath, batchname)
 if not(os.path.exists(batchpath)):
     os.mkdir(batchpath)
 basepath = batchpath
 
-video_save_path = '/home/ubuntu/convert_to_mp3s/data/videos'
+video_save_path = ""  # TODO: set local path — scratch folder for downloaded videos
 fail_list = set()
 
 # date pattern ??

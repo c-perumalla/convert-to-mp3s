@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# run artifacts
+*.log
+
+# downloaded media
+*.mp3
+*.mp4
+data/

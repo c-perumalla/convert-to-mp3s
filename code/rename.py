@@ -8,15 +8,14 @@ Convert to human readable (get code from previous code)
 make new name by getting sermon name and correct date + mp3
 copy the file name to new location with new name 
 '''
-from doctest import master
 import os
 import json
 from datetime import datetime, timedelta
 import shutil
 
-new_location = '/home/calvinperumalla/spectrum_mp3_data_renames'
-series_dict_path = '/home/calvinperumalla/convert_to_mp3s/code/series_dict.json'
-config_path = '/home/calvinperumalla/convert_to_mp3s/code/config.json'
+new_location = ""  # TODO: set local path — destination for renamed files
+series_dict_path = ""  # TODO: set local path — series_dict.json
+config_path = ""  # TODO: set local path — config.json
 
 
 # master

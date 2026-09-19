@@ -1,2 +1,2 @@
-pytube
-googleapiclient
+pytube                      # breaks when YouTube changes its player; upgrade if downloads fail
+google-api-python-client    # YouTube Data API v3
